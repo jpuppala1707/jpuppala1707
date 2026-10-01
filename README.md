@@ -9,7 +9,7 @@ and turning findings into recommendations a business can act on.
 - 🔭 Currently: Data Analyst @ Huckleberry Consultants
 - 🎯 Looking for: **Business Analyst / Data Analyst** opportunities
 - 💬 Ask me about: SQL, Power BI, Python, customer analytics, NLP for customer feedback
-- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN/)
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/jatin-kumar-puppala-7b5bb6437/)
 
 ---
 
